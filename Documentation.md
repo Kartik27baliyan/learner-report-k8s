@@ -1,4 +1,4 @@
-# Learner Report MERN Application - Kubernetes Deployment Process Documentation
+# Report MERN Application - Kubernetes Deployment Process Documentation
 
 ## Project Overview
 This project demonstrates the complete Kubernetes and Helm deployment setup for a MERN stack application (MongoDB, Express.js, React.js, Node.js) consisting of separate frontend and backend components.
